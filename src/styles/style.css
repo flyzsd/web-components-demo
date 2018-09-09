@@ -1,0 +1,7 @@
+app-drawer:not(:defined) {
+    display: none;
+}
+
+app-drawer {
+    --fancy-color: black;
+}
